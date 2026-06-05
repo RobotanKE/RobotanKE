@@ -35,20 +35,6 @@
 
 ---
 
-## 📌 Featured Projects
-
-### Schedule Service
-*Internal schedule management system — **in production**, used daily by real users*
-- **Stack:** FastAPI · PostgreSQL · SQLAlchemy · Pydantic
-- Full CRUD operations, external API integration
-
-### Data Automation Scripts
-*Reduced manual data processing time by **40%** in my previous role*
-- **Stack:** Python · Pandas · SQL · OpenPyXL
-
-> 🔗 Full code available in pinned repositories below
-
----
 
 ## 📫 Contact
 
@@ -61,3 +47,10 @@
 *Available for Python/FastAPI projects. Open to one‑time tasks and part‑time collaboration.*
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:2E8B57,100:000000&height=100&section=footer)
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RobotanKE/RobotanKE/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RobotanKE/RobotanKE/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/RobotanKE/RobotanKE/output/github-snake.svg" />
+</picture>
